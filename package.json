@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "install:01": "cd 01 && npm install",
     "install:02": "cd 02 && npm install",
+    "install:03": "cd 03/031 && npm install",
     "install-all": "npm install && npm-run-all install:*"
   },
   "keywords": [],
